@@ -10,8 +10,12 @@ Classificar cada imagem em uma entre 10 categorias de roupas.
 *   1 Canal de Cor (Grayscale)
 *   10 Classes / Rótulos 
 
-**Créditos e mais informações**: 
+**Créditos e Download do Dataset**: 
 * [TensorFlow](https://www.tensorflow.org/datasets/catalog/fashion_mnist?hl=pt-br)
+* [Kaggle](https://www.kaggle.com/datasets/zalando-research/fashionmnist)
+  
+`import tensorflow as tf`
+`(x_train, y_train), (x_test, y_test) = tf.keras.datasets.fashion_mnist.load_data()`
 
 **Linguagem e bibliotecas**:
 
