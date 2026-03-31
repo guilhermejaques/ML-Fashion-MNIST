@@ -1,5 +1,5 @@
 📌 **Objetivo**: 
-O objetivo é classificar cada imagem em uma entre 10 categorias.
+Classificar cada imagem em uma entre 10 categorias de roupas.
 
 ---
 
